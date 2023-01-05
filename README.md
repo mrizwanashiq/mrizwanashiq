@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Teacher</h3>
 
-- 🌱 I'm currently learning **React, Node.js, and MongoDB**
+- 🌱 I'm currently learning **how to stop procrastinating 😒**
 
 - 📝 I regularly write articles
 
