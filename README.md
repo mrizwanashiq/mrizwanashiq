@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
-<h3 align="center">I'm a Senior Software Engineer, a Tech Enthusiast, a Learner, and a Teacher.</h3>
+<h3 align="center">Senior Software Engineer, a Tech Enthusiast, a Learner, and a Teacher.</h3>
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 
