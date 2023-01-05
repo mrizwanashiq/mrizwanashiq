@@ -21,12 +21,8 @@ Readme.md file for github profile for a Senior Software Engineer (MERN Stack)
 
 [//]: # (introduction with emojis)
 
-## I am a Senior Software Engineer (MERN Stack)
+## I am a Senior Software Engineer (MERN Stack) with 5+ years of experience in building web applications. I have worked on various projects using different technologies and frameworks. I have worked on both frontend and backend of the application.
 
-[//]: # (badges)
-
-
-[//]: # (social media links)
 
 [![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
 
@@ -36,14 +32,7 @@ Readme.md file for github profile for a Senior Software Engineer (MERN Stack)
 
 [![Instagram](https://img.shields.io/badge/mrizwanashiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrizwanashiq/)
 
-[![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1020001/mrizwanashiq)](https://stackoverflow.com/users/1020001/mrizwanashiq)
-
-
-[//]: # (short intro)
-
-## I am a Senior Software Engineer (MERN Stack) with 5+ years of experience in building web applications. I have worked on various projects using different technologies and frameworks. I have worked on both frontend and backend of the application.
-
-[//]: # (tech stack)
+[![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14821287/rizwan)](https://stackoverflow.com/users/14821287/rizwan)
 
 ## My Tech Stack
 
