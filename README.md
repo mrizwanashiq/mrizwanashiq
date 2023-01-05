@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mrizwanashiq/mrizwanashiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,30 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Readme.md file for github profile for a Senior Software Engineer (MERN Stack)
+<h1 align="center">Hi there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
-# Hi there 👋
+<h3 align="center">I'm a Senior Software Engineer, a Tech Enthusiast, a Learner, and a Teacher.</h3>
 
-[//]: # (introduction with emojis)
+- 🌱 I’m currently learning **React, Node.js, and MongoDB**
 
-## I am a Senior Software Engineer (MERN Stack) with 5+ years of experience in building web applications. I have worked on various projects using different technologies and frameworks. I have worked on both frontend and backend of the application.
+- 📝 I regularly write articles
 
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Data Structures**
 
-[![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrizwanashiq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mrizwanashiq)
-
-[![Facebook](https://img.shields.io/badge/MRizwanAshiq.10-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MRizwanAshiq.10)
-
-[![Instagram](https://img.shields.io/badge/mrizwanashiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrizwanashiq/)
-
-[![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14821287/rizwan)](https://stackoverflow.com/users/14821287/rizwan)
+- 📫 How to reach me [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
 
 ## My Tech Stack
 
-[//]: # (tech stack badges)
-
-### Backend 
+### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
@@ -164,24 +153,14 @@ Readme.md file for github profile for a Senior Software Engineer (MERN Stack)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrizwanashiq)
 
-## 📫 How to reach me
+## 📫 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Rizwan%20Ashiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/) 
-[![Twitter Badge](https://img.shields.io/badge/-RizwanAshiq-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrizwanashiq)](https://twitter.com/mrizwanashiq) 
-[![Instagram Badge](https://img.shields.io/badge/-RizwanAshiq-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mrizwanashiq/)](https://www.instagram.com/mrizwanashiq/) 
-[![Facebook Badge](https://img.shields.io/badge/-RizwanAshiq-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mrizwanashiq.10/)](https://www.facebook.com/mrizwanashiq.10/)
+[![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrizwanashiq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mrizwanashiq)
 
+[![Facebook](https://img.shields.io/badge/MRizwanAshiq.10-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MRizwanAshiq.10)
 
+[![Instagram](https://img.shields.io/badge/mrizwanashiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrizwanashiq/)
 
-
-
-
-
-
-
-
-
-
-
-
+[![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14821287/rizwan)](https://stackoverflow.com/users/14821287/rizwan)
