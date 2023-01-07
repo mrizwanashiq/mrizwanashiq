@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
-<h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Teacher</h3>
+<h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
 - 🌱 I'm currently learning **how to stop procrastinating 😒**
 
