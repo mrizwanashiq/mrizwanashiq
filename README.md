@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Data Structures**
 
-- 📫 How to reach me [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+- 📫 Reach me [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com) or [![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
 
 ## My Tech Stack
 
@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
 ![Loopback4](https://img.shields.io/badge/-Loopback4-333333?style=flat&logo=loopback)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat&logo=apollo-graphql)
 
 ### Database
 
@@ -46,6 +48,14 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+
+### AWS (Amazon Web Services)
+
+![Coginto](https://img.shields.io/badge/-Coginto-333333?style=flat&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazon-aws)
+![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=amazon-aws)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-333333?style=flat&logo=amazon-aws)
 
 ### Frontend
 
@@ -79,11 +89,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
 ### Testing
 
@@ -102,6 +113,9 @@ Here are some ideas to get you started:
 ### Version Control
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+### Code Hosting
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
@@ -114,11 +128,14 @@ Here are some ideas to get you started:
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
-
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
 ### OS
 
@@ -153,7 +170,7 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrizwanashiq)
 
-## 📫 Connect with me
+## 📫 Connect with me on
 
 [![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
 
@@ -164,3 +181,4 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/mrizwanashiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrizwanashiq/)
 
 [![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14821287/rizwan)](https://stackoverflow.com/users/14821287/rizwan)
+
