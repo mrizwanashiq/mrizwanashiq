@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
-- 🌱 I'm currently learning **how to stop procrastinating 😒**
+- 🌱 Currently learning **how to stop procrastinating 😒**
 
-- 📝 I regularly write articles
+- 📝 Regularly write articles
 
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Data Structures**
 
-- 📫 How to reach me [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+- 📫 Reach out to me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
 
 ## My Tech Stack
 
@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=ant-design)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![Stylus](https://img.shields.io/badge/-Stylus-333333?style=flat&logo=stylus)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
@@ -79,11 +78,11 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
 ### Testing
 
@@ -96,10 +95,9 @@ Here are some ideas to get you started:
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=flat&logo=puppeteer)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
-### Version Control
+### Version Control and Code Hosting
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -113,12 +111,12 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Clickup](https://img.shields.io/badge/-Notion-333333?style=flat&logo=clickup)
 
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
 
 ### OS
 
@@ -127,7 +125,6 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
-
 
 ### Tools
 
