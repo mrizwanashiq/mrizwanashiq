@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Clickup](https://img.shields.io/badge/-Notion-333333?style=flat&logo=clickup)
+![Clickup](https://img.shields.io/badge/-Clickup-333333?style=flat&logo=clickup)
 
 
 ### DevOps
