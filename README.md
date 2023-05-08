@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
-- 🌱 Currently learning **how to stop procrastinating 😒**
+- 🌱 Currently learning **Blockchain**
 
 - 📝 Regularly write articles
 
