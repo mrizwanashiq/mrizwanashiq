@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
 ![Loopback4](https://img.shields.io/badge/-Loopback4-333333?style=flat&logo=loopback)
 
+### AWS - Amazon Web Services
+
+![Lambda Functions](https://img.shields.io/badge/-Lambda%20Functions-333333?style=flat&logo=amazonaws)
+![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazonaws)
+![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonaws)
+![Cognito](https://img.shields.io/badge/-Cognito-333333?style=flat&logo=amazonaws)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazonaws)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-333333?style=flat&logo=amazonaws)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-333333?style=flat&logo=amazonaws)
+
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
