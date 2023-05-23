@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Data Structures**
 
-- 📫 Reach out to me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+- 📫 Reach out to me at:
+
+  - ![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=D14836&link=mailto:mrizwanashiq@outlook.com)
+  - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mrizwanashiq/)
 
 ## My Tech Stack
 
