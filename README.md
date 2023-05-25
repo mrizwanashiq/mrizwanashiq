@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 - 📫 Reach out to me at:
 
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
-
-[//]: # (  open in new tab)
-  - Connect me on [LinkedIn](href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank")
-  - Connect me on [LinkedIn](https://www.linkedin.com/in/mrizwanashiq/)
+  - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
 
 ## My Tech Stack
 
