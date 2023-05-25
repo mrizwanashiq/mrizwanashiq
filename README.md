@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me at:
 
-  - ![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=D14836&link=mailto:mrizwanashiq@outlook.com)
-  - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mrizwanashiq/)
+  - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+  - Connect me on [LinkedIn](https://www.linkedin.com/in/mrizwanashiq/)
 
 ## My Tech Stack
 
