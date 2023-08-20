@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Muhammad Rizwan Ashiq</h1>
+<h1 align="center">Hey there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
 <h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
