@@ -148,21 +148,6 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
 
-
-## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwanashiq&layout=compact&theme=dark)
-
-![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=mrizwanashiq&show_icons=true&theme=dark)
-
-[//]: # (![Visitor Badge]&#40;https://visitor-badge.laobi.icu/badge?page_id=mrizwanashiq/learning-express-js&#41;)
-
-[//]: # (![GitHub Activity Graph]&#40;https://activity-graph.herokuapp.com/graph?username=mrizwanashiq&theme=react-dark&hide_border=true&area=true&#41;)
-
-[//]: # (![GitHub metrics]&#40;https://metrics.lecoq.io/mrizwanashiq&#41;)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrizwanashiq)
-
 ## 📫 Connect with me
 
 [![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
