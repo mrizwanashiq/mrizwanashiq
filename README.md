@@ -119,8 +119,8 @@ Here are some ideas to get you started:
 
 ### Project Management
 
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
