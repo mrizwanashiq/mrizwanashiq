@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
 - 🌱 Currently learning **Blockchain**
-
 - 📝 Regularly write articles
-
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Data Structures**
-
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, Software Engineering, etc**
 - 📫 Reach out to me at:
-
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
   - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
 
