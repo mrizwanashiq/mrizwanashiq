@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 - 🌱 Currently learning **Blockchain**
 - 📝 Regularly write articles
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, Software Engineering, Architecture etc**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, Software Engineering, Architecture, etc**
 - 📫 Reach out to me at:
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+  <!--
   - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
-
+  -->
 ## My Tech Stack
 
 ### Backend
@@ -144,6 +145,7 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
 
+<!--
 ## 📫 Connect with me
 
 [![Linkedin: mrizwanashiq](https://img.shields.io/badge/-mrizwanashiq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrizwanashiq/)](https://www.linkedin.com/in/mrizwanashiq/)
@@ -155,3 +157,6 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/mrizwanashiq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrizwanashiq/)
 
 [![Stackoverflow](https://img.shields.io/badge/-mrizwanashiq-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14821287/rizwan)](https://stackoverflow.com/users/14821287/rizwan)
+-->
+
+<!-----
