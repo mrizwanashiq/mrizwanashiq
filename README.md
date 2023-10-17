@@ -120,12 +120,6 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-### Mobile
-
-![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -154,6 +148,25 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
+### Tools
+
+![PM2](https://img.shields.io/badge/-PM2-333333?style=flat&logo=pm2)
+![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
+
+### Mobile App Development
+
+![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+
 ### Version Control and Code Hosting
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -178,18 +191,6 @@ Here are some ideas to get you started:
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 
-### Tools
-
-![PM2](https://img.shields.io/badge/-PM2-333333?style=flat&logo=pm2)
-![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
-![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
-![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
 
 <!--
 ## 📫 Connect with me
