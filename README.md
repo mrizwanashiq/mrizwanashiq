@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, Software Engineering, Architecture, etc**
 - 📫 Reach out to me at:
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
+- 😄 Pronouns: him/his
   <!--
   - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
   -->
