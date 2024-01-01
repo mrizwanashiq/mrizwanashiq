@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
-<h3 align="center">Learner | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
+<h3 align="center">Student | Senior Software Engineer | Tech Enthusiast | Team Player | Teacher</h3>
 
 - 🌱 Currently learning **Blockchain**
 - 📝 Regularly write articles at [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)
