@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 Currently learning **Blockchain**
 - 📝 Regularly write articles at [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, Software Engineering, Architecture, etc**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Database, Data Structures, Software Engineering, Architecture, etc**
 - 📫 Reach out to me at:
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
 - 😄 Pronouns: him/his
