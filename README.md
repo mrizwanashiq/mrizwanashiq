@@ -209,3 +209,4 @@
 ## How I work
 
 I am a big fan of Agile and Scrum methodologies. I believe in the power of teamwork and collaboration. I am a big fan of pair programming and code reviews. I believe in the power of automation and CI/CD. I am a big fan of TDD and BDD. I believe in the power of documentation and knowledge sharing. I am a big fan of clean code and clean architecture. I believe in the power of learning and teaching.
+
