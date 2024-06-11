@@ -25,6 +25,8 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=flat&logo=websocket)
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
 ![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
@@ -34,20 +36,16 @@
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 
-<!-- database heading with badge -->
-
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ### AWS - Amazon Web Services
 
@@ -101,8 +99,9 @@
 
 ### Payment Gateways
 
-![PayPal](https://img.shields.io/badge/-PayPal-333333?style=flat&logo=paypal)
 ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
+![PayPal](https://img.shields.io/badge/-PayPal-333333?style=flat&logo=paypal)
+![Klarna](https://img.shields.io/badge/-Klarna-333333?style=flat&logo=klarna)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-333333?style=flat&logo=razorpay)
 ![GooglePay](https://img.shields.io/badge/-GooglePay-333333?style=flat&logo=googlepay)
 ![ApplePay](https://img.shields.io/badge/-ApplePay-333333?style=flat&logo=applepay)
@@ -208,5 +207,5 @@
 
 ## How I work
 
-I am a big fan of Agile and Scrum methodologies. I believe in the power of teamwork and collaboration. I am a big fan of pair programming and code reviews. I believe in the power of automation and CI/CD. I am a big fan of TDD and BDD. I believe in the power of documentation and knowledge sharing. I am a big fan of clean code and clean architecture. I believe in the power of learning and teaching.
+I am a big fan of Agile and Scrum methodologies. I believe in the power of teamwork and collaboration. I advocate for pair programming and value code reviews. Automation and CI/CD are crucial aspects of my workflow. Additionally, I am enthusiastic about TDD and BDD practices. I emphasize the importance of documentation and knowledge sharing. I am committed to maintaining clean code and following clean architecture principles. Lastly, I am passionate about both learning and teaching.
 
