@@ -10,6 +10,7 @@
 - 😄 Pronouns: him/his
   <!--
   - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
+  7+ years of hands experience in software development, skilled in various languages and technologies. Team player & leader with a focus on continuous improvement
   -->
 
 ## My Tech Stack
@@ -208,4 +209,5 @@
 ## How I work
 
 I am a big fan of Agile and Scrum methodologies. I believe in the power of teamwork and collaboration. I advocate for pair programming and value code reviews. Automation and CI/CD are crucial aspects of my workflow. Additionally, I am enthusiastic about TDD and BDD practices. I emphasize the importance of documentation and knowledge sharing. I am committed to maintaining clean code and following clean architecture principles. Lastly, I am passionate about both learning and teaching.
+
 
