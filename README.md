@@ -2,9 +2,11 @@
 
 <h3 align="center">Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher</h3>
 
+I'm a Full-Stack Software Engineer and Team Lead with over 7 years of experience delivering safety-critical, mission-critical, and interdisciplinary applications across the US, EU, UK, Canada, Australia, Indonesia, Singapore, and India. I specialize in building scalable MERN, NestJS, REST, and GraphQL systems, leveraging Agile methodologies and clean architecture principles.
+
 - 🌱 Currently learning **Blockchain, Deno, Rust, Go**
 - 📝 Regularly write articles at [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Database, Data Structures, Software Engineering, Architecture, etc**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Databases, System Design, Software Architecture, etc**
 - 📫 Reach out to me at:
   - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
 - 😄 Pronouns: him/his
@@ -208,6 +210,4 @@
 
 ## How I work
 
-I am a big fan of Agile and Scrum methodologies. I believe in the power of teamwork and collaboration. I advocate for pair programming and value code reviews. Automation and CI/CD are crucial aspects of my workflow. Additionally, I am enthusiastic about TDD and BDD practices. I emphasize the importance of documentation and knowledge sharing. I am committed to maintaining clean code and following clean architecture principles. Lastly, I am passionate about both learning and teaching.
-
-
+I champion Agile and Scrum methodologies, emphasizing teamwork, pair programming, and code reviews. My workflow prioritizes clean code, TDD/BDD, and CI/CD automation. I'm passionate about scalable architectures, knowledge sharing through technical blogs, and continuous learning.
