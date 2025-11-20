@@ -7,13 +7,6 @@ I'm a Full-Stack Software Engineer and Team Lead with over 7 years of experience
 - 🌱 Currently learning **Blockchain, Deno, Rust, Go**
 - 📝 Regularly write articles at [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Databases, System Design, Software Architecture, etc**
-- 📫 Reach out to me at:
-  - Mail me at [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)
-- 😄 Pronouns: him/his
-  <!--
-  - Connect me on <a href="https://www.linkedin.com/in/mrizwanashiq/" target="_blank">LinkedIn</a>
-  7+ years of hands experience in software development, skilled in various languages and technologies. Team player & leader with a focus on continuous improvement
-  -->
 
 ## My Tech Stack
 
