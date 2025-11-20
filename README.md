@@ -5,7 +5,6 @@
 I'm a Full-Stack Software Engineer and Team Lead with over 7 years of experience delivering safety-critical, mission-critical, and interdisciplinary applications across the US, EU, UK, Canada, Australia, Indonesia, Singapore, and India. I specialize in building scalable MERN, NestJS, REST, and GraphQL systems, leveraging Agile methodologies and clean architecture principles.
 
 - 🌱 Currently learning **Blockchain, Deno, Rust, Go**
-- 📝 Regularly write articles at [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Databases, System Design, Software Architecture, etc**
 
 ## My Tech Stack
