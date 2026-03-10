@@ -2,7 +2,7 @@
 
 <h3 align="center">Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher</h3>
 
-I'm a Full-Stack Software Engineer and Team Lead with over 7 years of experience delivering safety-critical, mission-critical, and interdisciplinary applications across the US, EU, UK, Canada, Australia, Indonesia, Singapore, and India. I specialize in building scalable MERN, NestJS, REST, and GraphQL systems, leveraging Agile methodologies and clean architecture principles.
+I help founders ship investor-ready MVPs in weeks, enabling entrepreneurs to scale their business, a Full-Stack Software Engineer and Team Lead with over 8 years of experience delivering safety-critical, mission-critical, and interdisciplinary applications across the US, EU, UK, Canada, Australia, Indonesia, Singapore, and India. I specialize in building scalable MERN, NestJS, REST, and GraphQL systems, leveraging Agile methodologies and clean architecture principles.
 
 - 🌱 Currently learning **Blockchain, Deno, Rust, Go**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Databases, System Design, Software Architecture, etc**
