@@ -3,7 +3,6 @@
 <h3 align="center">Senior Full-Stack Engineer & Team Lead — I build production-grade fintech and SaaS platforms for global clients</h3>
 
 <p align="center">
-  <a href="mailto:rizwanashi215@gmail.com"><img src="https://img.shields.io/badge/Email-rizwanashi215%40gmail.com-333333?style=flat&logo=gmail" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Pakistan-333333?style=flat&logo=googlemaps" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=mrizwanashiq&color=blue&style=flat" alt="Profile views">
 </p>
@@ -56,5 +55,5 @@ Day to day that means:
 ---
 
 <p align="center">
-  📫 Reach me at <a href="mailto:rizwanashi215@gmail.com">rizwanashi215@gmail.com</a> — I'm always open to talking about ambitious products, hard engineering problems, or your half-finished prototype that needs to become real.
+  Always open to talking about ambitious products, hard engineering problems, or your half-finished prototype that needs to become real.
 </p>
